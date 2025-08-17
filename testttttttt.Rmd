@@ -6,3 +6,5 @@ output: html_document
 ---
 
 #we gaan deze shizzle eens testen
+
+#eens zien of we dit nu kunnen aanpassen
