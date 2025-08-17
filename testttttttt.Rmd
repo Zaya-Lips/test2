@@ -1,0 +1,8 @@
+---
+title: "testtttt"
+author: "Zaya Lips"
+date: "17-8-2025"
+output: html_document
+---
+
+#we gaan deze shizzle eens testen
